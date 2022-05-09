@@ -1,0 +1,41 @@
+.contenedor{ 
+	margin: 0 auto;
+}
+.header {
+    width: 90%;
+    height: 100%;
+	margin: 0 auto; 
+}
+
+/*/no vas ma con el nuevo  nav/*/
+// .logo{
+//     height: 10rem; 
+//     width: 100%;     
+//     background-color: lightgoldenrodyellow;
+// }
+
+// .imglogo{
+//     width: 8rem;
+//     height: 9rem;
+//     float: left;
+//     padding: 8px;
+// }
+// nav{
+//     float: right;
+//     transition: all 1s;  
+// }
+ 
+nav ul li{
+    list-style: none;
+    margin: 15px;
+    padding: 45px 0;
+    float: left;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: lightslategrey;
+    font-weight: bold;
+}
+
+
